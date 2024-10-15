@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>9011 Gates & Hillman Centers</p>
+    <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA, USA</p>
   
 news: false # includes a list of news items
