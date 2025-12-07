@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/).
+Hi! I am a second-year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very fortunate to be advised by [Prof. Graham Neubig](https://www.phontron.com/).
 
 Some areas that I am currently excited about include:
 - Agents (LLM, Multimodal, Embodied)
