@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a second-year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very grateful to be advised by [Prof. Aviral Kumar]([https://www.phontron.com/](https://aviralkumar2907.github.io/)) and [Prof. Graham Neubig](https://www.phontron.com/). My PhD is generously supported by the [Amazon AI PhD Fellowship](https://www.cs.cmu.edu/news/2025/amazon-phd-fellows).
+Hi! I am a second-year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very grateful to be advised by [Prof. Aviral Kumar](https://aviralkumar2907.github.io/) and [Prof. Graham Neubig](https://www.phontron.com/). My PhD is generously supported by the [Amazon AI PhD Fellowship](https://www.cs.cmu.edu/news/2025/amazon-phd-fellows).
 
 Some areas that I am currently excited about include:
 - Agents (LLM, Multimodal, Embodied)
