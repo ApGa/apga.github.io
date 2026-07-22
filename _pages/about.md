@@ -18,14 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a second-year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very grateful to be advised by [Prof. Aviral Kumar](https://aviralkumar2907.github.io/) and [Prof. Graham Neubig](https://www.phontron.com/). My PhD is generously supported by the [Amazon AI PhD Fellowship](https://www.cs.cmu.edu/news/2025/amazon-phd-fellows).
+Hi! I am a second-year Computer Science PhD student at [Carnegie Mellon University](https://www.cs.cmu.edu/) where I am very grateful to be advised by [Prof. Aviral Kumar](https://aviralkumar2907.github.io/) and [Prof. Graham Neubig](https://www.phontron.com/). My PhD is generously supported by the [Amazon AI PhD Fellowship](https://www.cs.cmu.edu/news/2025/amazon-phd-fellows). I am also a student researcher at [NVIDIA Research](https://www.nvidia.com/en-us/research/).
 
 Some areas that I am currently excited about include:
-- Agents (LLM, Multimodal, Embodied)
+- Agents
 - Reinforcement Learning  
-- Program Synthesis & Code Generation  
 - Reasoning and Abstraction
-- Inference-time algorithms
+- Inference-time Scaling
 
 Prior to starting a PhD at CMU, I spent four wonderful years at Microsoft as a Senior Machine Learning Scientist, where I helped design and ship many of the foundational pieces for [Microsoft & M365 Copilots](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot), including the original prototype for Copilots in Microsoft Office.
 
